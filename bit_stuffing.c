@@ -34,9 +34,8 @@ int main()
     printf("After stuffing the frame: ");
     printf("01111110 ");
     for (i = 0; i < j; i++)
-    {
         printf("%d", b[i]);
-    }
+
     printf(" 01111110");
     return 0;
 }
